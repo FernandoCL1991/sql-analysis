@@ -1,3 +1,5 @@
+# PosgreSQL, ERD, SQL Alchemy, Matplotlib, Pandas Numpy
+
 The goal of this activity is to import different datasets with CSV formatting into an SQL Database, which in this case is PostgreSQL, to get valuable outcomes by generating different data transformations withing the application.
 
 The goal of this analysis was to create an in-depth exploration of employees that used to work in the company during the 1980's and 1990's performing Data Engineering and Data Analysis. 
